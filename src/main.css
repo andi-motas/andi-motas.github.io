@@ -1,0 +1,22 @@
+h1{
+    background-color: rgb(97, 172, 131);
+    text-align: center;
+    letter-spacing: 8px;
+    font-size: 60px;
+    font-family: "Trebuchet", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Trebuchet", 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+}
+p{
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.block{
+    background-color: rgb(97, 172, 131);
+    margin-left:100px;
+    margin-right:100px;
+}
