@@ -17,6 +17,15 @@ p{
 }
 .block{
     background-color: rgb(97, 172, 131);
-    margin-left:100px;
-    margin-right:100px;
+    margin-left:150px;
+    margin-right:150px;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    background-color:rgb(97, 172, 131);
+}
+a:visited{
+    color: black;
 }
